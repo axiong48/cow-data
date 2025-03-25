@@ -1,0 +1,103 @@
+Name,Activity,Age,Blisters,Breed,Color,Congestion,Height(m),Hoof Health,Milk Appearance,Skin,Swelling,Temperature(°C),Weight(kg),Cough,Appetite
+Cow_1,Normal,10,none,Ayrshire,Black,No,1.49,Good,Healthy,Healthy,None,39.2,409,No,Normal
+Cow_2,Normal,12,none,Brown Swiss,Black,No,1.24,Good,Healthy,Healthy,None,38.3,465.2,No,Normal
+Cow_3,Normal,17,none,Guernsey,White,No,1.58,Good,Healthy,Healthy,None,39.4,728.7,No,Normal
+Cow_4,Normal,5,none,Guernsey,Black,No,1.6,Good,Healthy,Healthy,None,38.7,467.4,No,Normal
+Cow_5,Normal,1,none,Jersey,White,No,1.43,Good,Healthy,Healthy,None,38.2,786.1,No,Normal
+Cow_6,Normal,15,none,Ayrshire,Spotted,No,1.22,Good,Healthy,Healthy,None,39,790.8,No,Normal
+Cow_7,Normal,15,none,Jersey,Black,No,1.43,Good,Healthy,Healthy,None,38.4,715.5,No,Normal
+Cow_8,Normal,16,hooves,Jersey,Brown,No,1.58,Good,Healthy,Healthy,None,39.1,525.9,Yes,Reduced
+Cow_9,Normal,14,none,Ayrshire,Black,No,1.51,Good,Healthy,Healthy,None,39.4,577.1,Yes,Reduced
+Cow_10,Normal,11,none,Holstein,Black,No,1.5,Good,Healthy,Healthy,None,38.6,529.8,No,Normal
+Cow_11,Normal,5,none,Guernsey,Brown,No,1.78,Good,Healthy,Healthy,None,39.4,473.6,No,Normal
+Cow_12,Normal,8,none,Holstein,Black,No,1.3,Good,Healthy,Healthy,None,38.9,433.8,No,Normal
+Cow_13,Normal,17,none,Ayrshire,Brown,No,1.39,Good,Healthy,Healthy,None,38.1,414.1,No,Normal
+Cow_14,Normal,11,none,Brown Swiss,White,No,1.39,Good,Healthy,Healthy,None,38.2,465.3,No,Normal
+Cow_15,Normal,12,none,Jersey,Brown,No,1.68,Good,Healthy,Healthy,None,39,752.7,No,Normal
+Cow_16,Normal,4,none,Holstein,White,No,1.63,Good,Healthy,Healthy,None,38.2,403.9,No,Normal
+Cow_17,Normal,1,none,Holstein,Spotted,No,1.75,Good,Healthy,Healthy,None,38.7,522,Yes,Reduced
+Cow_18,Normal,11,none,Guernsey,Brown,No,1.52,Good,Healthy,Healthy,None,39.4,680.3,No,Normal
+Cow_19,Normal,5,none,Jersey,White,No,1.43,Good,Healthy,Healthy,None,39,500.8,No,Normal
+Cow_20,Normal,8,none,Brown Swiss,White,No,1.79,Good,Healthy,Healthy,None,38.1,628.9,No,Normal
+Cow_21,Normal,5,none,Holstein,Spotted,No,1.67,Good,Irregular,Healthy,Body,39.2,583.7,No,Normal
+Cow_22,Normal,17,none,Jersey,Black,No,1.45,Good,Healthy,Healthy,None,39.1,711,No,Normal
+Cow_23,Normal,1,none,Jersey,Brown,No,1.75,Good,Healthy,Healthy,None,39,575,No,Normal
+Cow_24,Normal,18,hooves,Jersey,Brown,No,1.63,Good,Healthy,Healthy,None,39.1,717.5,Yes,Reduced
+Cow_25,Normal,10,none,Jersey,White,No,1.48,Good,Healthy,Healthy,None,39,729,No,Normal
+Cow_26,Normal,15,none,Holstein,Black,No,1.46,Good,Healthy,Healthy,None,39.5,499.2,No,Normal
+Cow_27,Normal,6,none,Guernsey,White,No,1.51,Good,Healthy,Healthy,None,38,761.9,No,Normal
+Cow_28,Normal,12,none,Guernsey,Brown,No,1.38,Good,Healthy,Healthy,None,38.8,776.9,No,Normal
+Cow_29,Normal,16,none,Brown Swiss,Brown,No,1.55,Good,Healthy,Healthy,None,38.8,739.5,Yes,Reduced
+Cow_30,Normal,2,none,Brown Swiss,White,No,1.72,Good,Healthy,Healthy,None,39,638.2,No,Normal
+Cow_31,Normal,1,none,Ayrshire,White,No,1.24,Good,Healthy,Healthy,None,39.4,443.7,No,Normal
+Cow_32,Normal,5,none,Ayrshire,White,No,1.61,Good,Healthy,Healthy,None,38.2,556.6,No,Normal
+Cow_33,Normal,13,none,Brown Swiss,Brown,No,1.45,Good,Healthy,Healthy,None,39.1,721.4,No,Normal
+Cow_34,Normal,4,none,Holstein,White,No,1.22,Good,Healthy,Healthy,None,39.4,699.2,No,Normal
+Cow_35,Normal,13,hooves,Ayrshire,Spotted,No,1.28,Good,Healthy,Healthy,None,38.9,428.3,Yes,Reduced
+Cow_36,Normal,14,none,Ayrshire,Spotted,No,1.46,Good,Healthy,Healthy,None,39.1,536.6,No,Normal
+Cow_37,Normal,14,none,Holstein,Brown,No,1.46,Good,Healthy,Healthy,None,39.3,441.2,No,Normal
+Cow_38,Normal,10,none,Brown Swiss,Brown,No,1.23,Good,Healthy,Healthy,None,39.3,776.6,No,Normal
+Cow_39,Normal,7,none,Holstein,Brown,No,1.61,Good,Healthy,Healthy,None,38.8,439.3,No,Normal
+Cow_40,Normal,7,none,Holstein,Brown,No,1.42,Good,Irregular,Healthy,Body,39.4,425.9,No,Normal
+Cow_41,Normal,17,none,Ayrshire,Spotted,No,1.63,Good,Healthy,Healthy,None,39.2,616.9,No,Normal
+Cow_42,Normal,9,none,Guernsey,Black,No,1.38,Good,Healthy,Healthy,None,39.2,584.4,Yes,Reduced
+Cow_43,Normal,10,none,Guernsey,Brown,No,1.79,Good,Healthy,Healthy,None,39.5,416.4,No,Normal
+SICK_2COW,Low,12,hooves,brown Swiss,gay,yes,1.23,Good,Irregular,itching,head,40,600,yes,reduced
+Cow_44,Normal,9,hooves,Ayrshire,Black,No,1.63,Good,Healthy,Healthy,None,38.5,783.6,Yes,Reduced
+Cow_45,Normal,9,none,Brown Swiss,Black,No,1.28,Good,Healthy,Healthy,None,38.6,788.6,No,Normal
+Cow_46,Normal,10,none,Holstein,Black,No,1.69,Good,Healthy,Healthy,None,38.1,532.1,No,Normal
+Cow_47,Normal,7,none,Brown Swiss,Spotted,No,1.35,Good,Healthy,Healthy,None,39,488.2,No,Normal
+Cow_48,Normal,8,none,Jersey,Brown,No,1.69,Good,Healthy,Healthy,None,39,752.8,No,Normal
+Cow_49,Normal,13,none,Brown Swiss,White,No,1.62,Good,Healthy,Healthy,None,38.6,745.4,No,Normal
+Cow_50,Normal,4,none,Jersey,Spotted,No,1.43,Good,Healthy,Healthy,None,38.6,770.2,No,Normal
+Cow_51,Normal,12,none,Holstein,Black,No,1.22,Good,Healthy,Healthy,None,38.8,632.2,No,Normal
+Cow_52,Normal,7,none,Holstein,White,No,1.68,Good,Healthy,Healthy,None,38.2,776.7,No,Normal
+Cow_53,Normal,17,none,Guernsey,Brown,No,1.4,Good,Healthy,Healthy,None,38.9,481.5,No,Normal
+Cow_54,Normal,1,none,Guernsey,Black,No,1.37,Good,Healthy,Healthy,None,39.1,529,No,Normal
+Cow_55,Normal,18,none,Ayrshire,Black,No,1.59,Good,Healthy,Healthy,None,38.5,589.4,No,Normal
+Cow_56,Normal,9,none,Holstein,Spotted,No,1.6,Good,Healthy,Healthy,None,39,727.7,No,Normal
+Cow_57,Normal,16,none,Brown Swiss,Black,No,1.75,Good,Healthy,Healthy,None,38.7,467.2,No,Normal
+Cow_58,Normal,3,none,Holstein,Spotted,No,1.77,Good,Healthy,Healthy,None,38.3,782.2,No,Normal
+Cow_59,Normal,10,none,Ayrshire,Black,No,1.41,Good,Healthy,Healthy,None,38.3,689,No,Normal
+Cow_60,Normal,5,none,Holstein,White,No,1.73,Good,Healthy,Healthy,None,38.8,547,No,Normal
+Cow_61,Normal,10,none,Jersey,White,No,1.6,Good,Healthy,Healthy,None,39,700.4,No,Normal
+Cow_62,Normal,14,none,Holstein,White,No,1.36,Good,Healthy,Healthy,None,39.3,466.4,Yes,Reduced
+Cow_63,Normal,15,none,Guernsey,White,No,1.22,Good,Healthy,Healthy,None,39.2,495.8,No,Normal
+Cow_64,Normal,14,none,Jersey,Spotted,No,1.38,Good,Healthy,Healthy,None,38.2,728,No,Normal
+Cow_65,Normal,14,none,Brown Swiss,Black,No,1.75,Good,Healthy,Healthy,None,39,540.9,No,Normal
+Cow_66,Normal,3,none,Jersey,Black,No,1.37,Good,Healthy,Healthy,None,38.2,799.6,No,Normal
+Cow_67,Normal,4,hooves,Jersey,White,No,1.62,Good,Healthy,Healthy,None,38.2,767.1,Yes,Reduced
+Cow_68,Normal,2,none,Ayrshire,Brown,No,1.49,Good,Healthy,Healthy,None,38.5,769.8,No,Normal
+Cow_69,Normal,17,none,Ayrshire,White,No,1.3,Good,Healthy,Healthy,None,38.2,717.6,No,Normal
+Cow_70,Normal,12,none,Jersey,Brown,No,1.52,Good,Healthy,Healthy,None,39.4,533.3,No,Normal
+Cow_71,Normal,17,none,Holstein,Black,No,1.54,Good,Healthy,Healthy,None,38.2,584.5,No,Normal
+Cow_72,Normal,10,none,Ayrshire,White,No,1.48,Good,Healthy,Healthy,None,38.2,752.4,No,Normal
+Cow_73,Normal,5,none,Ayrshire,Spotted,No,1.35,Good,Irregular,Healthy,Body,39.4,585,No,Normal
+Cow_74,Normal,16,none,Jersey,White,No,1.74,Good,Healthy,Healthy,None,39,695.7,No,Normal
+Cow_75,Normal,10,none,Jersey,Brown,No,1.56,Good,Irregular,Healthy,Body,38.4,785.8,No,Normal
+Cow_76,Normal,6,none,Brown Swiss,Black,No,1.55,Good,Healthy,Healthy,None,38.3,660.9,No,Normal
+Cow_77,Normal,3,none,Guernsey,Spotted,No,1.37,Good,Healthy,Healthy,None,38.6,542.4,No,Normal
+Cow_78,Normal,7,none,Jersey,White,No,1.76,Good,Healthy,Healthy,None,38.7,597.1,No,Normal
+Cow_79,Normal,14,none,Guernsey,Black,No,1.49,Good,Healthy,Healthy,None,38.3,579.1,No,Normal
+Cow_80,Normal,1,none,Brown Swiss,Spotted,No,1.6,Good,Irregular,Healthy,Body,38.6,696.3,No,Normal
+Cow_81,Normal,4,none,Jersey,Spotted,No,1.52,Good,Healthy,Healthy,None,38.1,507.3,No,Normal
+Cow_82,Normal,6,none,Holstein,Brown,No,1.26,Good,Healthy,Healthy,None,38.1,459.2,No,Normal
+Cow_83,Normal,9,none,Jersey,Spotted,No,1.64,Good,Healthy,Healthy,None,39.1,734.1,No,Normal
+Cow_84,Normal,9,none,Guernsey,Brown,No,1.2,Good,Healthy,Healthy,None,39.2,550.1,No,Normal
+Cow_85,Normal,17,none,Jersey,White,No,1.78,Good,Healthy,Healthy,None,38.8,647.1,No,Normal
+Cow_86,Normal,9,none,Guernsey,Spotted,No,1.48,Good,Healthy,Healthy,None,39.5,731.7,No,Normal
+Cow_87,Normal,17,none,Ayrshire,White,No,1.57,Good,Healthy,Healthy,None,38.3,559,No,Normal
+Cow_88,Normal,14,none,Jersey,Brown,No,1.32,Good,Healthy,Healthy,None,39.2,775.6,No,Normal
+Cow_89,Normal,16,none,Brown Swiss,White,No,1.24,Good,Healthy,Healthy,None,39.3,735.5,No,Normal
+Cow_90,Normal,14,none,Ayrshire,Black,No,1.61,Good,Healthy,Healthy,None,38.3,606.6,No,Normal
+Cow_91,Normal,16,none,Holstein,White,No,1.61,Good,Healthy,Healthy,None,38.4,495.6,No,Normal
+Cow_92,Normal,7,none,Holstein,Spotted,No,1.72,Good,Healthy,Healthy,None,38.9,741.6,No,Normal
+Cow_93,Normal,11,none,Jersey,Spotted,No,1.25,Good,Healthy,Healthy,None,39.3,750.1,No,Normal
+Cow_94,Normal,3,none,Guernsey,Black,No,1.25,Good,Healthy,Healthy,None,38.2,705.5,No,Normal
+Cow_95,Normal,14,none,Holstein,Black,No,1.55,Good,Healthy,Healthy,None,38.5,425.2,No,Normal
+Cow_96,Normal,18,none,Brown Swiss,Black,No,1.75,Good,Healthy,Healthy,None,38,454.7,No,Normal
+Cow_97,Normal,18,none,Holstein,Spotted,No,1.45,Good,Healthy,Healthy,None,39.5,559,No,Normal
+Cow_98,Normal,8,none,Brown Swiss,Brown,No,1.36,Good,Healthy,Healthy,None,38.3,610.2,No,Normal
+Cow_99,Normal,15,none,Jersey,Spotted,No,1.7,Good,Healthy,Healthy,None,39.4,732.1,No,Normal
+Cow_100,Normal,10,none,Holstein,Brown,No,1.32,Good,Healthy,Healthy,None,38.6,477.9,No,Normal
+SICK_COW,Low,12,hooves,brown Swiss,gay,yes,1.23,Good,Irregular,itching,head,40,600,yes,reduced
